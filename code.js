@@ -1,1 +1,2 @@
-var journal = ["This is my first journal entry!"];
+var journal = ["This is my first journal entry!",
+  "This is my second journal entry!"];
